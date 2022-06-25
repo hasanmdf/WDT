@@ -90,7 +90,7 @@ body{
     .contact-form i.fa:hover{
       cursor: pointer;
       border:2px solid #000000;
-      color: white;
+      color: red;
     }
      
       .contact-form{
