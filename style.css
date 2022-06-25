@@ -36,10 +36,6 @@ body {
   font-weight: bold;
 }
 
-.header a:hover {
-  color: #999;
-}
-
 .header a.active {
   text-align: center;
   border-radius: 40px;
