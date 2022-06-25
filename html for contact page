@@ -9,6 +9,16 @@
    <title>Contact page</title>
     </head>
      <body>
+	 <div class="header">
+    <!-- <a href="#default"   class="logo">Practice</a> -->
+    <img class="set" src="./medipedia.jpg" width="160px" alt="" />
+    <div class="header-right">
+      <a class="active" href="./home.html">Login</a>
+      <a class="active" href="./home.html">Home</a>
+      <a class="active" href="./home.html">About</a>
+      <a class="active" href="./home.html">Contact</a>
+    </div>
+  </div>
          <section id="contact-part">
            <div class="container">
            	 <h2>Contact Us</h2>
