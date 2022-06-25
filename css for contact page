@@ -3,7 +3,43 @@ body{
     margin: 0px;  
     font-family: sans-serif;
   
-   }   
+   }  
+   .set {
+  margin-left: 100px;
+
+}
+
+.header {
+  overflow: hidden;
+  background-color: #f7f7f7;
+  padding: 20px 10px;
+}
+   .header a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 25px;
+  border-radius: 4px;
+}
+
+
+.header a:hover {
+  color: #999;
+}
+
+.header a.active {
+  text-align: center;
+  border-radius: 40px;
+  color: black;
+  margin: 10px;
+}
+
+.header-right {
+  float: right;
+}
 
  .container{
       width: 90%;
